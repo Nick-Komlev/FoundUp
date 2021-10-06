@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="958d65e1-3594-4ef5-8f7c-a12475e914bd" name="Changes" comment="" />
+    <list default="true" id="958d65e1-3594-4ef5-8f7c-a12475e914bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/foundup/projects/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FoundUp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FoundUp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundup/foundup/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/foundup/foundup/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundup/foundup/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/foundup/foundup/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +40,11 @@
     </task>
     <servers />
   </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <envs>
+      <env key="D:\Django\venv" value="" />
+    </envs>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -43,5 +55,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
